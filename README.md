@@ -4,9 +4,12 @@
 
 # Guia rápido do WSL2 + Docker
 
-<!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-60427ec5579c1799"></script>
-<!-- Go to www.addthis.com/dashboard to customize your tools --> <div class="addthis_inline_follow_toolbox"></div>
-
+<div>
+<!-- Go to www.addthis.com/dashboard to customize your tools --> 
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-60427ec5579c1799"></script>
+<!-- Go to www.addthis.com/dashboard to customize your tools --> 
+<div class="addthis_inline_follow_toolbox"></div>
+</div>
 
 ## O que é o WSL2 
 
